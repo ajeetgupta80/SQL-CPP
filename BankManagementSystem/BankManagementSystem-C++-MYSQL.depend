@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1647573018 source:c:\users\adones\downloads\c++ project\bankmanagementsystem-c++-mysql\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<sstream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1663276798 source:c:\users\ajeet brock\downloads\bankmanagementsystem-c-mysql\bankmanagementsystem-c++-mysql\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<sstream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1663247439 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1663247439 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1663247439 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1663247439 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1663247440 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1663247440 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1663247440 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
