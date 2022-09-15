@@ -88,8 +88,8 @@ int main()
         res = mysql_store_result(con);
         while(row = mysql_fetch_row(res))
         {
-
-            cout<<"\n\n your id -> "<<row[0];
+            cout<<"---------------------------------------------"<<endl;
+            cout<<" your id -> "<<row[0];
             cout<<"\n\n your name -> "<<row[1];
             cout<<"\n\n your email-> "<<row[2];
             cout<<"\n\n your password -> "<<row[3]<<endl;
@@ -108,7 +108,6 @@ int main()
         cout<<"\n\n query failed "<<endl;
 
     }
-
 
 
 
