@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <mysql.h>
 #include <sstream>
+#include <math.h>
 
 using namespace std;
 
